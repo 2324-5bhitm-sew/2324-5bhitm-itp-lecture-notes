@@ -207,3 +207,14 @@ Boot <|.. Schwimmauto
 ----
 
 * Ein Interface ist wie ein Vertrag. Ein spezifisches Verhalten eines Interfaces (eine Fähigkeit) wird in einer Klasse implementiert.
+
+
+== 2024-02-08
+
+https://medium.com/sahibinden-technology/package-by-layer-vs-package-by-feature-7e89cde2ae3a
+
+== 2024-02-15
+
+++++
+<iframe width="560" height="315" src="https://www.youtube.com/embed/s_o8dwzRlu4?si=DDdOvahrZrD1gO1X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+++++
